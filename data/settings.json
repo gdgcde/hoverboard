@@ -3,10 +3,10 @@
     "name": "GDG Lviv",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "http://gdgcde-devfest.firebaseapp.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-10-026T09:00:00+03:00",
+  "endDate": "2019-10-26T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -115,8 +115,8 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
+    "city": "Ciudad del Este",
+    "short": "Ciudad del Este, Paraguay",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
       "latitude": 49.809841,
@@ -149,11 +149,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/gdgcde/events/263300726/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGcde/"
       },
       {
         "name": "twitter",
