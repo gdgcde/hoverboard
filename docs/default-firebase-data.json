@@ -1681,7 +1681,7 @@
     "price" : 80,
     "soldOut" : false,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
   }, {
     "available" : false,
     "currency" : "$",
@@ -1693,7 +1693,7 @@
     "regular" : true,
     "soldOut" : true,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
   }, {
     "available" : true,
     "currency" : "$",
@@ -1705,7 +1705,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
   }, {
     "available" : false,
     "currency" : "$",
@@ -1718,7 +1718,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
   }, {
     "available" : true,
     "currency" : "$",
@@ -1726,7 +1726,7 @@
     "name" : "I Love DFUA",
     "price" : 280,
     "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
   } ],
   "triggers" : {
     "images" : false
