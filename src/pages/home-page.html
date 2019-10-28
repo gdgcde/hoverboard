@@ -159,7 +159,7 @@
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
           </paper-button>
-          <paper-button
+          <!-- <paper-button
             on-tap="_scrollToTickets"
             ga-on="click"
             ga-event-category="tickets"
@@ -169,7 +169,26 @@
           >
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
-          </paper-button>
+          </paper-button> -->
+          <a
+            class="bottom-drawer-link"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfOqZwSEqGTou4DOgYFXJJW9NGyetBRERSWHi6UvIM61ZwMXA/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+            ga-event-category="ticket button"
+            ga-event-action="buy_click"
+            layout horizontal center
+          >
+            <paper-button
+              ga-event-category="tickets"
+              ga-event-action="scroll"
+              ga-event-label="hero block - scroll to tickets"
+              primary invert
+            >
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              {$ buyTicket $}
+            </paper-button>
+          </a>
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
