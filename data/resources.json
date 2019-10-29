@@ -5,10 +5,10 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "16 de Noviembre, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
+  "share": "Compartir",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Seguinos",
+  "emailUs": "Contactanos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Pre inscripciones",
@@ -16,11 +16,11 @@
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
+  "cachingComplete": "Cacheado! Las futuras visitas funcionarán sin conexión.",
+  "newVersionAvailable": "Una nueva versión de esta app está disponible",
+  "refresh": "Recargar",
+  "position": "Posición",
+  "country": "País",
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
@@ -33,7 +33,7 @@
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Acerca De",
       "links": [
         {
           "name": "GDG Ciudad Del Este",
@@ -44,71 +44,11 @@
           "name": "Google Developers Group",
           "url": "https://developers.google.com/groups/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Event Resources",
-      "links": [
-        {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "subscribeNote": "",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
     "title": "What you need to know, before you ask.",
@@ -214,17 +154,17 @@
       "description": "Get notified about the important conference updates",
       "label": "Subscribe"
     },
-    "yourEmail": "Your email",
+    "yourEmail": "Tu email",
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
     "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "subscribe": "Suscribirse",
+    "subscribed": "Suscrito",
+    "close": "Cerrar",
+    "generalError": "Ocurrió un error. Por favor intenta más tarde",
+    "toast": "Suscrito exitósamente!"
   },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
