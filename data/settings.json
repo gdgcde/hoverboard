@@ -104,13 +104,13 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "Megal Suites Hotel",
     "city": "Ciudad del Este",
     "short": "Ciudad del Este, Paraguay",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "address": "Capitan Bado C/ Monseñor Rodriguez, Ciudad del Este, Paraguay",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -25.5095565,
+      "longitude": -54.6389472,
       "zoom": 5
     },
     "mapCenter": {
@@ -147,15 +147,11 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdg_cde/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.instagram.com/gdgcde"
       }
     ],
     "share": [
@@ -169,7 +165,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "devfest@gdgcde.org",
   "signInProviders": {
     "providersData": [
       {
